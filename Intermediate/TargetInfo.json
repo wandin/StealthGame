@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPSGame",
+			"Path": "D:\\GAMES CODED\\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\\STEALTH GAME\\Source\\FPSGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPSGameEditor",
+			"Path": "D:\\GAMES CODED\\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\\STEALTH GAME\\Source\\FPSGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

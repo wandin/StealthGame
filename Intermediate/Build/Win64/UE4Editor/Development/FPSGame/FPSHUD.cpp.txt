@@ -1,0 +1,17 @@
+D:\GAMES CODED\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\STEALTH GAME\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\Definitions.FPSGame.h
+D:\GAMES CODED\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\STEALTH GAME\Source\FPSGame\Public\FPSHUD.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+D:\GAMES CODED\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\STEALTH GAME\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSHUD.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h

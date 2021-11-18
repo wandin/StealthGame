@@ -1,0 +1,11 @@
+D:\GAMES CODED\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\STEALTH GAME\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\Definitions.FPSGame.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\GAMES CODED\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\STEALTH GAME\Source\FPSGame/Public/FPSCharacter.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\GAMES CODED\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\STEALTH GAME\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSCharacter.generated.h

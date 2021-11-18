@@ -1,0 +1,7 @@
+D:\GAMES CODED\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\STEALTH GAME\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\Definitions.FPSGame.h
+D:\GAMES CODED\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\STEALTH GAME\Source\FPSGame\Public\BlackHole.h
+D:\GAMES CODED\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\STEALTH GAME\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\BlackHole.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
