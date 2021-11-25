@@ -8,6 +8,7 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class APawn;
 #ifdef FPSGAME_FPSGameMode_generated_h
 #error "FPSGameMode.generated.h already included, missing '#pragma once' in FPSGameMode.h"
 #endif
@@ -16,6 +17,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_SPARSE_DATA
 #define STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_RPC_WRAPPERS
 #define STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_EVENT_PARMS \
+	struct FPSGameMode_eventOnMissionCompleted_Parms \
+	{ \
+		APawn* InstigatorPawn; \
+	};
+
+
+#define STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_CALLBACK_WRAPPERS
 #define STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAFPSGameMode(); \
@@ -58,14 +67,21 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AFPSGameMode); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AFPSGameMode)
 
 
-#define STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_PRIVATE_PROPERTY_OFFSET
-#define STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_9_PROLOG
+#define STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__SpectatingViewPointClass() { return STRUCT_OFFSET(AFPSGameMode, SpectatingViewPointClass); }
+
+
+#define STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_9_PROLOG \
+	STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_EVENT_PARMS
+
+
 #define STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_PRIVATE_PROPERTY_OFFSET \
 	STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_SPARSE_DATA \
 	STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_RPC_WRAPPERS \
+	STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_CALLBACK_WRAPPERS \
 	STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_INCLASS \
 	STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_STANDARD_CONSTRUCTORS \
 public: \
@@ -78,6 +94,7 @@ public: \
 	STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_PRIVATE_PROPERTY_OFFSET \
 	STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_SPARSE_DATA \
 	STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_CALLBACK_WRAPPERS \
 	STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_INCLASS_NO_PURE_DECLS \
 	STEALTH_GAME_Source_FPSGame_Public_FPSGameMode_h_12_ENHANCED_CONSTRUCTORS \
 private: \

@@ -20,3 +20,14 @@ D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Root
 D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
 D:\GAMES CODED\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\STEALTH GAME\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSCharacter.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Unreal Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h

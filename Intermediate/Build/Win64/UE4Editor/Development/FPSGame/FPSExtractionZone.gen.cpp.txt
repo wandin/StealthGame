@@ -1,0 +1,5 @@
+D:\GAMES CODED\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\STEALTH GAME\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\Definitions.FPSGame.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal Engine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\GAMES CODED\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\STEALTH GAME\Source\FPSGame/Public/FPSExtractionZone.h
+D:\GAMES CODED\CURSO EPIC GAMES - STEALTH AND MULTIPLAYER\STEALTH GAME\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSExtractionZone.generated.h
