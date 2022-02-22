@@ -3,7 +3,7 @@
 ### Mutiplayer
 
 > ###### Summary:
-> *It's a cooperative first person shooter game, which the objective is collect an object and extract into the safe zone, guards have sight and hearing detection, and might be distracted by players.*
+> *It's a cooperative first person shooter game, which the objective is to collect an object and extract into the safe zone, guards have sight and hearing detection, and might be distracted by players.*
 
 #### These were the features used in this project:
 
